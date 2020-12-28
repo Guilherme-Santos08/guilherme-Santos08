@@ -1,17 +1,16 @@
 ### Olá, Bem vindo ao meu perfil do GitHub! 👋
----
-   Meu maior objetivo nesse momento é conseguir meu primeiro estágio/júnior na área de desenvolvimento front end. Acredito que irei me dar super bem na área de desenvolvimento front end.
-<br>
-   Um dos motivos pelo qual eu quero trabalhar nessa área são pelos cursos de HTML-CSS e JS que estou fazendo, esses cursos estão me animando bastante para trabalhar na área de desenvolvimento fron end.
 
+:clap: Oi, meu nome é Guilherme Augusto tenho 17 anos e estou estudando para ser Desenvolvedor Front end.
 
-## Cursos
+:man_student: Acabei o ensino médio, em 2021 pretendo cursar análise e desenvolvimento de sistemas
 
-No momento estou fazendo o curso de <strong>HTML-CSS</strong> com Gustavo Guanabara no [Curso em Vídeo](https://www.youtube.com/https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n). <br>
-Cada aula que ele posta, mais vontade de aprender HTML e CSS eu fico - 
+ 📕 Os principais motivos para eu querer Desenvolver no Front end, foi pelos curso que andei fazendo nessa quarentena. 
+ Um desses curso foi o de HTML e CSS do Gustavo Guanabara do [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+ 
+ E também o curso de Desenvolvimento web moderno na [cod3r.com](http://cod3r.com/)
 
-E também faço curso de WebModerno na [Cod3r](https://www.cod3r.com.br/)
-
+[Acesse meu Linkedin](https://www.linkedin.com/in/guilherme-augusto-04a8531b1/)
+[Acesse meu site hospedado aqui mesmo no GitHub](https://guilherme-santos08.github.io/Site/index.html)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula"> 
