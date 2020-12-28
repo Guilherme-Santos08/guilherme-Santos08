@@ -6,20 +6,11 @@
 
 
 ## Cursos
----
-No momento estou fazendo o curso de <strong>HTML-CSS</strong>  do Curso em video.
-Cada aula que ele posta, mais vontade de aprender HTML e CSS eu fico - [Curso em Vídeo](https://www.youtube.com/https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
-E também faço curso de WebModerno na cod3er.com [Cod3r](https://www.cod3r.com.br/)
+No momento estou fazendo o curso de <strong>HTML-CSS</strong> com Gustavo Guanabara no [Curso em Vídeo](https://www.youtube.com/https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n). <br>
+Cada aula que ele posta, mais vontade de aprender HTML e CSS eu fico - 
 
-## Tecnologias
-
-HTML - Básico
-
-CSS - Básico
-
-JS - Básico
-
+E também faço curso de WebModerno na [Cod3r](https://www.cod3r.com.br/)
 
 
 <p align="center">
