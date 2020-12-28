@@ -2,14 +2,11 @@
 
 :clap: Oi, meu nome é Guilherme Augusto tenho 17 anos e estou estudando para ser Desenvolvedor Front end.
 
-:man_student: Acabei o ensino médio, em 2021 pretendo cursar análise e desenvolvimento de sistemas
-
- 📕 Os principais motivos para eu querer Desenvolver no Front end, foi pelos curso que andei fazendo nessa quarentena. 
- Um desses curso foi o de HTML e CSS do Gustavo Guanabara do [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
- 
+ 📕 Os principais motivos para eu querer Desenvolver no Front end, foi pelos curso que andei fazendo nessa quarentena. <br>
+ Um desses curso foi o de HTML e CSS do Gustavo Guanabara do [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
  E também o curso de Desenvolvimento web moderno na [cod3r.com](http://cod3r.com/)
 
-[Acesse meu Linkedin](https://www.linkedin.com/in/guilherme-augusto-04a8531b1/)
+[Acesse meu Linkedin](https://www.linkedin.com/in/guilherme-augusto-04a8531b1/)<br>
 [Acesse meu site hospedado aqui mesmo no GitHub](https://guilherme-santos08.github.io/Site/index.html)
 
 <p align="center">
@@ -25,7 +22,11 @@
 
 
 
+
 <!--
+
+:man_student: Acabei o ensino médio, em 2021 pretendo cursar análise e desenvolvimento de sistemas
+
 **Guilherme-Santos08/Guilherme-Santos08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
