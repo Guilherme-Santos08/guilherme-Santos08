@@ -1,17 +1,21 @@
-# Olá ! Sejam bem-vindo(a) 
+# 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-augusto08/)](https://www.linkedin.com/in/guilherme-augusto08/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/guilherme-Santos08/)](https://github.com/guilherme-Santos08/)
 
-### Meu nome é Guilherme, e tenho 17 anos.
+### Olá!Eu Guilherme, e tenho 17 anos.👋
+
+Procuro estuda e práticar todos os dias, espero me tornar um ótimo desenvolvedor!!!
 
 -  🇧🇷 Brasil.
 -  🖥️ Futuro desenvolvedor Front-end.
 -  📚 Estou aprendendo: HTML-CSS e JS.
--  📜 Estou desenvolvendor um site [Meu site](https://dzscript.netlify.app/index.html)
-
-
-
+-  📜 Estou desenvolvendor meu site [Site](https://dzscript.netlify.app/index.html)
+---
+<p align = "center">
+  <ahref="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Guilherme-Santos08"/></a>
+<a href="https://github.com/Guilherme-Santos08"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dracula"/></a> 
+</p>
 
 
 
