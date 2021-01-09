@@ -1,15 +1,17 @@
 # Olá ! Sejam bem-vindo(a) 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/guilherme-Santos08/)](https://github.com/guilherme-Santos08/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-augusto08/)](https://www.linkedin.com/in/guilherme-augusto08/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/guilherme-Santos08/)](https://github.com/guilherme-Santos08/)
 
-### Meu nome é Guilherme, estou estudando bastante para me tornar um ótimo desenvolvedor Frond-end.
--  🖥️ Front-end.
--  📚 Estou aprendendo HTML-CSS e JS.
+### Meu nome é Guilherme, e tenho 17 anos.
+
+-  🇧🇷 Brasil.
+-  🖥️ Futuro desenvolvedor Front-end.
+-  📚 Estou aprendendo: HTML-CSS e JS.
+-  📜 Estou desenvolvendor um site [Meu site](https://dzscript.netlify.app/index.html)
 
 
 
-Minhas redes sociais 👇
 
 
 
