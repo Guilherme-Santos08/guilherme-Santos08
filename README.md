@@ -12,13 +12,12 @@ Minhas redes sociais 👇
 
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula"> 
-</p>
+<p align = "center">
+  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Guilherme-Santos08"/></a>
+  <a href="https://github.com/Guilherme-Santos08"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dark"/></a> 
+</p> 
+  
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dracula"> 
-</p>
 
 
 
@@ -27,6 +26,16 @@ Minhas redes sociais 👇
 
 
 <!--
+
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula"> 
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dracula"> 
+</p>
 
 :man_student: Acabei o ensino médio, em 2021 pretendo cursar análise e desenvolvimento de sistemas
 
