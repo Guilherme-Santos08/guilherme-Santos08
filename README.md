@@ -1,13 +1,16 @@
-### Olá, Bem vindo ao meu perfil do GitHub! 👋
+# Olá ! Sejam bem-vindo(a) 
+### Meu nome é Guilherme, estou estudando bastante para me tornar um ótimo desenvolvedor Frond-end.
+-  🖥️ Front-end.
+-  📚 Estou aprendendo HTML-CSS e JS.
 
-:clap: Oi, meu nome é Guilherme Augusto tenho 17 anos e estou estudando para ser Desenvolvedor Front end.
 
- 📕 Os principais motivos para eu querer Desenvolver no Front end, foi pelos curso que andei fazendo nessa quarentena. <br>
- Um desses curso foi o de HTML e CSS do Gustavo Guanabara do [Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
- E também o curso de Desenvolvimento web moderno na [cod3r.com](http://cod3r.com/)
 
-[Acesse meu Linkedin](https://www.linkedin.com/in/guilherme-augusto-04a8531b1/)<br>
-[Acesse meu site hospedado aqui mesmo no GitHub](https://guilherme-santos08.github.io/Site/index.html)
+Minhas redes sociais 👇
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/guilherme-Santos08/)](https://github.com/guilherme-Santos08/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-augusto08/)](https://www.linkedin.com/in/guilherme-augusto08/)
+
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula"> 
