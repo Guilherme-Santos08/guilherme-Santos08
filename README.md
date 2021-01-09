@@ -13,8 +13,8 @@ Minhas redes sociais 👇
 
 
 <p align = "center">
-  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Guilherme-Santos08"/></a>
-  <a href="https://github.com/Guilherme-Santos08"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Guilherme-Santos08"/></a>
+  <a href="https://github.com/Guilherme-Santos08"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dracula"/></a> 
 </p> 
   
 
