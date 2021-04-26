@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme, e tenho 17 anos.👋
 
-Procuro estuda e práticar todos os dias, espero me tornar um ótimo desenvolvedor!!!
+Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolvedor!!!
 
 -  🇧🇷 Brasil.
 -  🖥️ Futuro desenvolvedor Front-end.
