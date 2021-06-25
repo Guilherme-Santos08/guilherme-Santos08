@@ -17,7 +17,7 @@ Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolve
 </p>
 
 
-
+  ![Snake animation](https://github.com/Guilherme-Santos08/guilherme-santos08/blob/output/github-contribution-grid-snake.svg)
 
 
 
