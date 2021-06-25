@@ -17,8 +17,6 @@ Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolve
 </p>
 
 
-  ![Snake animation](https://github.com/Guilherme-Santos08/guilherme-santos08/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
@@ -34,6 +32,11 @@ Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolve
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula"> 
 </p>
 
+
+
+  ![Snake animation](https://github.com/guilherme-Santos08/guilherme-santos08/blob/output/github-contribution-grid-snake.svg)
+  
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos08&layout=compact&theme=dracula"> 
 </p>
