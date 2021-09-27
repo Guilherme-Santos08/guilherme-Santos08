@@ -4,7 +4,7 @@ Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolve
 
 -  🇧🇷 Brasil.
 -  🖥️ desenvolvedor Front-end.
--  🔧 Skills: HTML-CSS, JS, Sass, ReactJs, Firebase(Autenticação).
+-  🔧 Skills: HTML-CSS, JS, Sass, ReactJs, NextJs, Firebase(Autenticação).
 -  📚 Estou aprendendo: NextJS.
 
 
