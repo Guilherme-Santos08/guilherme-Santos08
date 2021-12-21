@@ -9,7 +9,7 @@ Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolve
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-augusto08/)](https://www.linkedin.com/in/guilherme-augusto08/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/guilherme-Santos08/)](https://github.com/guilherme-Santos08/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/Guilherme-Santos08/)](https://github.com/Guilherme-Santos08)
 
 ---
 <p align = "center">
