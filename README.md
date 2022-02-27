@@ -4,8 +4,8 @@ Procuro estudar e práticar todos os dias, espero me tornar um ótimo desenvolve
 
 -  🇧🇷 Brasil.
 -  🖥️ desenvolvedor Front-end.
--  🔧 Skills: HTML-CSS, JS, Sass, ReactJs, NextJs, Firebase(Autenticação).
--  📚 Estou aprendendo: TypeScript e Redux.
+-  🔧 Skills: HTML-CSS, JS, Sass, ReactJs, NextJs, Firebase(Autenticação), TypeScript, Redux.
+-  📚 Estou estudando:  Ignite(Rocketseat).
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-augusto08/)](https://www.linkedin.com/in/guilherme-augusto08/)
