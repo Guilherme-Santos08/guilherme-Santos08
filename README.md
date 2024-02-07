@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme, e tenho 20 anos.👋
 
-<div style="margin: auto; text-align: center; margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Santos08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 -  🇧🇷 Brasil.
